@@ -33,6 +33,9 @@
 ### Chris
 > "Love the simplicity, directness, clarity, connectedness, and positive focus!"
 
+### Chi
+> "Having a group to go through it together normalizes the journey. Nik's structure and prompts are motivating, and it feels like talking to a friend who's in it with you!"
+
 ---
 
 ## Key Themes in Testimonials
