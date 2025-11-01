@@ -13,22 +13,22 @@
 
 ## Tracking Table
 
-| Date | Post Type | Hook (First Line) | Impressions | Likes | Comments | Shares | Profile Visits | DMs | Apps | Score | Notes |
-|------|-----------|-------------------|-------------|-------|----------|--------|----------------|-----|------|-------|-------|
-| 2025-10-31 | Offer/CTA | "I'm giving away 20 free..." | 300 | 13 | 1 | | | | | /100 | Giveaway |
-| 2025-10-30 | Announcement | "Making it official..." | 2,000 | 29 | 6 | | | | | /100 | Official job announcement (profile update) |
-| 2025-10-28 | Founder Journey | "Have you ever felt..." | 400 | 7 | 2 | | | | | /100 | Cocoony sunset |
-| 2025-10-23 | Product Launch | "63 Founding Members..." | 400 | 11 | 3 | | | | | /100 | Cocoony members |
-| 2025-10-22 | Hot Take | "IDK why so many..." | 400 | 11 | 4 | | | | | /100 | Learning backwards |
-| 2025-10-20 | Lifestyle | "I listened to all..." | 400 | 11 | 0 | | | | | /100 | Taste cultivation |
-| 2025-10-16 | Framework | "6 months ago, I was..." | 1,300 | 30 | 12 | | | | | /100 | Getting hired playbook |
-| 2025-mid-10 | Challenge | "Everyone is doing 75HARD..." | 400 | 5 | 0 | | | | | /100 | 75VIBES - Comment hack failed |
-| 2025-mid-10 | Tactical | "7 vibe-coding hacks..." | 3,100 | 29 | 0 | | | | | /100 | Vibe-coding hacks |
-| 2025-early-10 | Strategy | "Today marks a major shift..." | 500 | 10 | 2 | | | | | /100 | Distribution mode |
-| 2025-early-10 | Lifestyle | "I never thought I'd change..." | 2,000 | 15 | 4 | | | | | /100 | Morning routine |
-| 2025-early-10 | Framework | "My rule of two..." | 600 | 4 | 1 | | | | | /100 | Rule of Two |
-| 2025-late-09 | Cohort Launch | "The dream I thought..." | 1,600 | 25 | 1 | | | | | /100 | Cohort 4 announcement |
-| 2025-late-09 | Cohort Launch | "🔥 Opening 7 spots..." | 600 | 8 | 4 | | | | | /100 | Cohort launch |
+| Date | Post Type | Hook (First Line) | Impressions | Likes | Comments | Score | Notes |
+|------|-----------|-------------------|-------------|-------|----------|-------|-------|
+| 2025-10-31 | Offer/CTA | "I'm giving away 20 free..." | 300 | 13 | 1 | /100 | Giveaway |
+| 2025-10-30 | Announcement | "Making it official..." | 2,000 | 29 | 6 | /100 | Official job announcement (profile update) |
+| 2025-10-28 | Founder Journey | "Have you ever felt..." | 400 | 7 | 2 | /100 | Cocoony sunset |
+| 2025-10-23 | Product Launch | "63 Founding Members..." | 400 | 11 | 3 | /100 | Cocoony members |
+| 2025-10-22 | Hot Take | "IDK why so many..." | 400 | 11 | 4 | /100 | Learning backwards |
+| 2025-10-20 | Lifestyle | "I listened to all..." | 400 | 11 | 0 | /100 | Taste cultivation |
+| 2025-10-16 | Framework | "6 months ago, I was..." | 1,300 | 30 | 12 | /100 | Getting hired playbook |
+| 2025-mid-10 | Challenge | "Everyone is doing 75HARD..." | 400 | 5 | 0 | /100 | 75VIBES - Comment hack failed |
+| 2025-mid-10 | Tactical | "7 vibe-coding hacks..." | 3,100 | 29 | 0 | /100 | Vibe-coding hacks |
+| 2025-early-10 | Strategy | "Today marks a major shift..." | 500 | 10 | 2 | /100 | Distribution mode |
+| 2025-early-10 | Lifestyle | "I never thought I'd change..." | 2,000 | 15 | 4 | /100 | Morning routine |
+| 2025-early-10 | Framework | "My rule of two..." | 600 | 4 | 1 | /100 | Rule of Two |
+| 2025-late-09 | Cohort Launch | "The dream I thought..." | 1,600 | 25 | 1 | /100 | Cohort 4 announcement |
+| 2025-late-09 | Cohort Launch | "🔥 Opening 7 spots..." | 600 | 8 | 4 | /100 | Cohort launch |
 
 ---
 
@@ -40,10 +40,6 @@
 - **Impressions**: How many people saw it
 - **Likes**: Total likes
 - **Comments**: Total comments
-- **Shares**: Total shares (higher value than likes)
-- **Profile Visits**: Clicks to your profile from this post
-- **DMs**: Direct messages received as result of post
-- **Apps**: Applications to MOMENTUM generated
 - **Score**: Your virality score (0-100) using rubric
 - **Notes**: What worked, what didn't, context
 
