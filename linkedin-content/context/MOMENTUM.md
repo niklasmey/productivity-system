@@ -134,10 +134,10 @@ We pair peer communities with a German-engineered system to test ideas from 0 to
 - Built MOMENTUM while building in public
 - Mastered vibe-coding, community-building, idea validation
 
-**Social Proof**:
+**Social Proof & Testimonials**:
 - 40+ builders through 4 cohorts
 - WhatsApp community of engaged participants
-- [Add testimonials as they come]
+- See [testimonials.md](testimonials.md) for full participant feedback and key themes
 
 ---
 
