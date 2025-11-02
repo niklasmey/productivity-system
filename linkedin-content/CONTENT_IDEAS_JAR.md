@@ -376,3 +376,35 @@ When you've used these 10 ideas:
 1. Analyze which performed best
 2. Generate 10 NEW ideas based on learnings
 3. Keep iterating on what drives applications
+
+---
+
+## Ideas From Nik (To Be Developed)
+
+### 11. Canadian Freelancers Leaving Money on the Table
+
+**Angle**: Tactical tax/business structure advice (niche but valuable)
+
+**Hook**: "To all my Canadian freelancer friends: You're likely leaving money on the table if you operate as a sole proprietor."
+
+**Core Pitch**:
+- Incorporation benefits for Canadian freelancers
+- Pay yourself through dividends (tax efficiency)
+- When it makes sense vs staying sole proprietor
+
+**Framework to develop**:
+1. Sole proprietor vs incorporated (cost-benefit)
+2. How dividend payments work
+3. Tax savings calculation
+4. When to make the switch (revenue threshold)
+5. Common mistakes to avoid
+
+**Disclaimer**: "I'm not an accountant or tax consultant - always verify with a professional"
+
+**MOMENTUM tie-in**: "This is the kind of tactical business wisdom we share in the community - builders helping builders optimize"
+
+**Target ICP**: Career changers (30%) + Founders (Canadian)
+
+**Estimated Score**: 74-79/100 (niche but actionable)
+
+**Status**: Needs development - add your personal story/experience
