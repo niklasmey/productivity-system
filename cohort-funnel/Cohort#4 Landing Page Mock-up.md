@@ -80,193 +80,113 @@ Develop the focus and habits that make your progress last.
 
 ---
 
-## 🎯 CLEAR GOALS SECTION
+## 📅 PROGRAM STRUCTURE
 
 ### Section Header
-**"Clear goals that matter"**
+**"Three Weekly Touchpoints"**
 
-### Copy
-**"Set objectives and key results that make your vision measurable"**
-
-No more vague intentions. We use OKRs to turn "I want to build something" into "I will ship [specific outcome] by [date]."
-
-**Visual:** Screenshot of OKR tracking interface (from current page or placeholder)
+### Subheader
+**"A proven structure to drive you forward"**
 
 ---
 
-## 📅 OUR WEEKLY STRUCTURE
+### #1 Validation Workshops every Monday
+
+**Learn frameworks that move the needle**
+
+**Visual:** [Framework sampler]
+
+---
+
+### #2 Distribution Coworking every Wednesday
+
+**Real-time accountability! Build together, get unstuck, and share wins.**
+
+**Visual:** [Group call screenshot]
+
+---
+
+### #3 Personal 1:1 every Friday
+
+**Tailored guidance from me! Tackle blockers, refine strategy, and stay on track.**
+
+**Visual:** [Small headshot of Nik]
+
+---
+
+## 🎁 PARTICIPANT PERKS
 
 ### Section Header
-**"Our weekly structure"**
+**"Participant Perks"**
 
-### Intro Copy
-**"Workshops, coworking sessions, and 1:1s that drive you forward"**
-
----
-
-### Three Weekly Touchpoints
-
-**MONDAYS - Workshops**
-Learn frameworks that move the needle: validation, distribution, product thinking.
-*[Orange button: "Workshops"]*
-
-**WEDNESDAYS - Coworking**
-Build together. Get unstuck. Share wins. Real-time accountability.
-*[Orange button: "Coworking"]*
-
-**FRIDAYS - Personal 1:1s**
-Tailored guidance with Nik. Tackle blockers, refine strategy, stay on track.
-*[Orange button: "Personal 1:1s"]*
-
-**Visual:** Calendar interface showing the weekly rhythm
+### Subheader
+**"Exclusive benefits for every builder"**
 
 ---
 
-## 🚀 NEW: MOMENTUM BUILDERS PLATFORM
+✅ Ship faster with free AI credits
+
+✅ Have me shadow one of your user interviews
+
+✅ Add MOMENTUM to your resume
+
+**Visual:** [Logo sampler - Superscale, Lovable, Supabase, and partner tools]
+
+---
+
+## 🏆 MOST PROGRESS AWARD
 
 ### Section Header
-**"Your Mission Control for 5 Weeks"**
+**"Most Progress Award"**
 
-### Intro Copy
-**"Introducing the Momentum Builders platform—your central hub for focus, accountability, and progress"**
+### Subheader
+**"Win big for shipping with momentum"**
 
 ---
 
-### Platform Features (5 Feature Cards)
+**For the builder who made the most progress:**
 
-**1. Goal Setting + OKR Tracker**
-Set measurable objectives and track key results weekly. See exactly where you stand.
+💰 $500 cash from my own pocket
 
-**2. Reflection Prompts**
-Guided prompts for group sessions, 1:1s, and async thinking. Build self-awareness as you build your product.
+🛠️ Premium tool credits package
 
-**3. AI Call Transcription**
-Every workshop and 1:1 transcribed with clear action items listed. Never miss a next step.
+🎯 Mentoring with startup experts
 
-**4. Progress Dashboard**
-See everyone's wins in real-time. Celebrate breakthroughs. Stay inspired by peer momentum.
+**Visual:** [Trophy/prize graphic]
 
-**5. Async Community Space**
-Share updates, ask questions, get feedback 24/7. Your builder community never sleeps.
+---
+
+## 🚀 MOMENTUM BUILDERS PLATFORM
+
+### Section Header
+**"Your Mission Control: The MOMENTUM Builders Platform"**
+
+### Subheader
+**"Keep your sprint goals, learnings, and action items in one dedicated workspace"**
+
+---
+
+### Platform Features
+
+**📈 Progress Dashboard**
+Get inspired as you see everyone's wins in real-time.
+
+**🎯 Goal Setting and Tracking**
+Turn your idea into measurable objectives and key results.
+
+**📝 Dedicated Workspace**
+Keep learnings and action items in one dedicated place.
+
+**⚡ Shortcut to Flow**
+Open the platform and focus on what matters.
+
+**💬 24/7 Community Support**
+Connect with me and the other MOMENTUM Builders anytime.
 
 **Visual:**
 - Platform mockup/screenshot (Figma design when ready)
 - For now: Placeholder with text "Platform launching Nov 17"
 - Show dashboard view with OKRs, action items, progress bars
-
----
-
-## 🤝 24/7 PEER SUPPORT
-
-### Section Header
-**"24/7 peer support"**
-
-### Headline
-**"Turn to 10+ early-stage founders who want to see you win"**
-
-### Copy
-You're not building alone anymore. Get feedback, share blockers, celebrate small wins—with people who are in it with you.
-
-**Visual:** Screenshot of community chat/WhatsApp showing founder interactions
-
----
-
-## 🎁 PERKS & PRIZES
-
-### Section Header
-**"Win while you build"**
-
-### Headline
-**"Commit $500. Build for 5 weeks. Win perks + prizes for showing up and shipping."**
-
----
-
-### Participant Perks (for everyone)
-
-**Included in your $500 investment:**
-
-✅ **Lovable Credits** - $X in credits to build faster with AI-powered development
-
-✅ **[Additional Perk #2]** - *(To be added based on partnerships)*
-
-✅ **[Additional Perk #3]** - *(To be added based on partnerships)*
-
-✅ **Lifetime MOMENTUM Alumni Access** - Join future community events and stay connected
-
----
-
-### Grand Prize
-
-**🏆 Most Progress Award**
-
-The founder who makes the most measurable progress wins:
-- **$500 cash refund** (your investment back)
-- **+ [Service/consulting package]** (value: $X)
-- **+ Featured case study** on MOMENTUM platform and LinkedIn
-
-**How it's measured:**
-- OKR completion rate
-- Shipped deliverables
-- Community contribution
-- Peer + Nik evaluation
-
-**Visual:**
-- Trophy/prize graphic
-- "Your $500 investment could become your launchpad + cash back"
-
----
-
-## 📖 MY STORY
-
-### Section Header
-**"Why I built MOMENTUM"**
-
-### Headline
-**"Connecting people, building freedom"**
-
----
-
-### Story Copy (Expanded from current page)
-
-For years, I kept pushing my dreams into the future.
-
-I had ideas I didn't build. Moves I didn't make. I waited for permission that never came—and hid behind excuses to protect my ego.
-
-Building solo kept me stuck in the same patterns.
-
-I knew community was the answer. So I started hosting 5-week sprints—bringing together peers who said YES to one idea and committed to building alongside each other.
-
-After running three cohorts, something clicked. This wasn't just a side project anymore. It was a proven system for helping founders, intrapreneurs, and career changers make **undeniable progress** together.
-
-That's when MOMENTUM became real.
-
-Through workshops, I provide the structure. The group fills it with sharp feedback and real support. Together, we turn dreams into momentum.
-
-But here's what I've learned after 40+ builders:
-
-**Personal freedom isn't about going solo. It's about building with the right people.**
-
-It's about courage, creativity, and bold actions—taken together.
-
-That's what we do here. And I'd love to build alongside you.
-
-**Visual:**
-- Photo of Nik (candid/working shot)
-- Optional: Photo from a past cohort session (group coworking or workshop)
-
----
-
-### What "Personal Freedom" Means
-
-**For me, personal freedom means:**
-
-→ **Building on your own terms** - No one else's timeline, no permission needed
-
-→ **Turning ideas into income** - Creating cash-flowing businesses that support the life you want
-
-→ **Choosing your community** - Working with people who energize you, not drain you
-
-And it starts with 5 weeks of focused momentum.
 
 ---
 
@@ -280,109 +200,121 @@ And it starts with 5 weeks of focused momentum.
 
 ---
 
-### Featured Testimonial #1 (Outcome-focused)
+### Testimonial Carousel (8 testimonials)
 
-**Frances - Founder**
-> "Before MOMENTUM, I was almost abandoning my project. Now, I have clarity and take immediate action week after week."
+**Frances (sprint #2-3)**
+> "It helped me gain momentum. Before I was losing it, almost abandoning my project. Now, I have clarity and take immediate action week after week."
 
-**Outcome:** Went from near-abandonment to consistent weekly shipping
+**Nataly (sprint #2-3)**
+> "Loved it! The weekly 1:1s gave me real human interaction and helped me work through blockers. MOMENTUM brought the excitement and energy I was missing in my day job, helping me move forward with my vibe-coding project."
 
----
+**Ian (sprint #1-2)**
+> "Nik is impeccably on time, brings structure to every scenario, and turns big goals into clear, actionable steps. The shared accountability combined with his fast, efficient, and clean approach made me far more productive."
 
-### Featured Testimonial #2 (Outcome-focused)
+**Chris (sprint #2-4)**
+> "With MOMENTUM's simplicity and clarity, I went from a blank page to nearly completing my second book manuscript and building a royalty-based revenue stream. Over just 3 sprints, I made huge leaps toward stepping out of constant 1:1 client work."
 
-**Ian - Founder**
-> "Nik brings structure to every scenario and turns big goals into clear, actionable steps. The shared accountability made me far more productive than I could've been on my own."
+**Joep (sprint #1-3)**
+> "Nik's coaching stands out through its positive touch. His reflective approach and perspective that everyone is different helps me stay mindful, experiment more, and set better goals."
 
-**Outcome:** Increased productivity through structured accountability
-
----
-
-### Featured Testimonial #3 (Outcome-focused)
-
-**Amanda - App Builder**
-> "This is exactly what I need as I'm building my app. Each week, I've come away with a clear AHA moment and more excitement and energy for the week ahead."
-
-**Outcome:** Weekly breakthroughs sustaining momentum through build phase
-
----
-
-### Case Study Callout Box
-
-**"What our community members have shipped:"**
-
-Visual grid showing 4 products:
-1. **Commitify.me** - [Brief description]
-2. **Sparklyst.app** - [Brief description]
-3. **Nurtrwellness.com** - [Brief description]
-4. **Allmo.ai** - [Brief description]
-
-**Stat highlight:** "38 of 40 builders hit their 5-week goals"
-
----
-
-### Additional Testimonials (Carousel or Grid)
-
-**Mehdi:**
-> "Nik has so much knowledge with the best energy, especially when you want your business to get to the next level. He will help you reprioritize and find the reason why you're here to start a business."
-
-**Chi:**
+**Chi (sprint #2-3)**
 > "Having a group to go through it together normalizes the journey. Nik's structure and prompts are motivating, and it feels like talking to a friend who's in it with you!"
 
-**Joep:**
-> "Nik's reflective approach helps me stay mindful, experiment more, and set better goals."
+**Roxana (sprint #3)**
+> "The 6 weeks Sprints are very well structured. The activity in group is inspiring and learn a lot from the other founders. I particularly love the 1:1s because they make me feel heard and encouraged in my journey."
 
-**Roxana:**
-> "The sprints are very well structured. The group activity is inspiring. I particularly love the 1:1s because they make me feel heard and encouraged."
+**Mehdi (sprint #2-4)**
+> "Nik has so much knowledge with the best energy that you can wish for, especially when you want your business to get to the next level. He will help you reprioritize, aid you in finding the reason why you're here to start a business."
 
 ---
 
-## ❓ FAQ
+## 💰 INVESTMENT
 
 ### Section Header
-**"Frequently Asked Questions"**
+**"Your Investment"**
+
+### Subheader
+**"Five weeks of MOMENTUM to shift your trajectory"**
 
 ---
 
-**Q: I'm not technical, can I still join?**
+### Pricing Display
 
-A: Absolutely! MOMENTUM is for any dedicated builder, including no-code founders, service providers, and career changers looking for their next role. All you need is a bias to action and a readiness to ship!
+**$500 CAD**
 
----
+✅ 5 Personal 1:1 Check-ins with Nik
 
-**Q: How do you measure Most Progress?**
+✅ 5 Group Workshops
 
-A: At the end of the sprint, each participant reviews everyone's projects and ranks them by progress made. Then, we combine the peer rankings with your actual completion rate to calculate a final progress score. Whoever ends up with the highest score wins the Most Progress Award.
+✅ 5 Coworking Sessions
 
----
+✅ Unlimited 24/7 Community Support
 
-**Q: Do you offer payment plans?**
+✅ MOMENTUM Builders Platform Access
 
-A: MOMENTUM is all about co-creation! If the $500 CAD program fee represents a barrier for you, please reach out to me at nik@momentum.builders. We offer discounts and even fully sponsored seats based on location and personal situation.
-
----
-
-**Q: What's the schedule?**
-
-A: Our sessions are scheduled to accommodate global time zones, with a focus on North America and Europe. Workshops are on Mondays at 8:30am PST / 11:30am EST / 5:30pm CET for 60 min. Coworking sessions are on Wednesdays at 8:30am PST / 11:30am EST / 5:30pm CET for 90 min. Your 1:1 check-in with me is on Fridays and we will set a time based on your availability.
+✅ Participant Perks + Most Progress Award
 
 ---
 
-**Q: How much time am I committing per week?**
+### Value Statement
 
-A: 3 hours per week across 5 weeks. The sessions aren't about consuming information, they're about making progress on your project with structure and support.
+**Get there faster with a new level of intensity and compounding progress**
 
----
-
-**Q: What if I can't make a session live?**
-
-A: All sessions are recorded and you get lifetime access to replays in the Momentum Builders platform. Individual work and reflection prompts are also available there, so you can catch up async and stay on track.
+**Visual:** [Pricing card displaying $500 CAD]
 
 ---
 
-**Q: What happens after the 5 weeks?**
+## 📖 MY STORY
 
-A: For most builders, the first sprint is just the beginning. Many string together 3 to 4 sprints until their path forward is crystal clear and their business idea is fully validated, while others continue with 1:1 coaching or join future cohorts at a discount. The real power is in seeing your progress compound over time.
+### Section Header (Landing Page)
+**"Why I'm building MOMENTUM"**
+
+### Subheader (Landing Page)
+**"Bringing people together to unlock their full potential"**
+
+**Visual:** [Large headshot photo of Nik]
+
+---
+
+### Expanded Story (Sub-page - Click to read more)
+
+{Hi, I'm Nik!}
+
+I build tools, stories, and spaces to bring people together and unlock their full potential.
+
+---
+
+For years, I kept pushing my dreams into the future. I had ideas I didn't build. Moves I didn't make. I waited for permission that never came and hid behind excuses to protect my ego.
+
+It took me 3 years of entrepreneurship to finally break through those patterns.
+
+---
+
+June 23, 2024 was when I finally felt a big shift! I started finding paying customers before building anything. Vibe-coded features people actually wanted. Killed bad ideas without any emotional attachment.
+
+What happened that day? I kicked off the inaugural sprint with a few of my local entrepreneur friends.
+
+---
+
+Four sprints forward and inspired by Lovable, I turned all my learnings into MOMENTUM so you can go straight to impact and income with your business ideas.
+
+MOMENTUM is an indie accelerator that reminds people of their human potential.
+
+It helps anyone turn a personal pain point, deep domain expertise, or zone of genius into a path toward personal freedom.
+
+It pairs peer communities with my German-engineered system to test ideas from 0 to 1.
+
+---
+
+Before and after work, you'll find me making art and furniture, preparing for a bold expedition, and talking to strangers.
+
+{Thanks for building alongside me!
+
+Happy days,
+Nik
+linkedin.com/in/niklas-mey/
+
+P.S. Do the thing! It's meant to be difficult.}
 
 ---
 
@@ -436,6 +368,55 @@ Join Cohort #4 starting November 17. Lock in for 5 weeks. Build with momentum.
 
 ### Sub-CTA Text (below countdown)
 Questions? DM me on LinkedIn or email nik@momentum.builders
+
+---
+
+## ❓ FAQ
+
+### Section Header
+**"Frequently Asked Questions"**
+
+---
+
+**Q: I'm not technical, can I still join?**
+
+A: Absolutely! MOMENTUM is for any dedicated builder, including no-code founders, service providers, and career changers looking for their next role. All you need is a bias to action and a readiness to ship!
+
+---
+
+**Q: How do you measure Most Progress?**
+
+A: At the end of the sprint, each participant reviews everyone's projects and ranks them by progress made. Then, we combine the peer rankings with your actual completion rate to calculate a final progress score. Whoever ends up with the highest score wins the Most Progress Award.
+
+---
+
+**Q: Do you offer payment plans?**
+
+A: MOMENTUM is all about co-creation! If the $500 CAD program fee represents a barrier for you, please reach out to me at nik@momentum.builders. We offer discounts and even fully sponsored seats based on location and personal situation.
+
+---
+
+**Q: What's the schedule?**
+
+A: Our sessions are scheduled to accommodate global time zones, with a focus on North America and Europe. Workshops are on Mondays at 8:30am PST / 11:30am EST / 5:30pm CET for 60 min. Coworking sessions are on Wednesdays at 8:30am PST / 11:30am EST / 5:30pm CET for 90 min. Your 1:1 check-in with me is on Fridays and we will set a time based on your availability.
+
+---
+
+**Q: How much time am I committing per week?**
+
+A: 3 hours per week across 5 weeks. The sessions aren't about consuming information, they're about making progress on your project with structure and support.
+
+---
+
+**Q: What if I can't make a session live?**
+
+A: All sessions are recorded and you get lifetime access to replays in the Momentum Builders platform. Individual work and reflection prompts are also available there, so you can catch up async and stay on track.
+
+---
+
+**Q: What happens after the 5 weeks?**
+
+A: For most builders, the first sprint is just the beginning. Many string together 3 to 4 sprints until their path forward is crystal clear and their business idea is fully validated, while others continue with 1:1 coaching or join future cohorts at a discount. The real power is in seeing your progress compound over time.
 
 ---
 

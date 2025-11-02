@@ -10,9 +10,11 @@ All notable changes to the MOMENTUM cohort funnel and landing pages will be docu
 - **Cohort#4 Landing Page Mock-up.md** - Complete landing page copy and structure for Cohort #4 launch
   - Hero section with announcement video placement and updated CTAs
   - Updated value proposition: "How we'll win together" with three core pillars
-  - New MOMENTUM Builders Platform section with 5 feature cards
-  - Perks & Prizes section including Most Progress Award
-  - Expanded "Why I built MOMENTUM" story section
+  - MOMENTUM Builders Platform section with 5 feature cards (Progress Dashboard, Goal Setting and Tracking, Dedicated Workspace, Shortcut to Flow, 24/7 Community Support)
+  - Separate Participant Perks and Most Progress Award sections
+  - Expanded "Why I built MOMENTUM" story section based on LinkedIn announcement
+  - 8 testimonial carousel with sprint attribution
+  - Investment/Pricing section with clear value breakdown
   - FAQ section with 7 questions addressing common concerns
   - Dual CTA structure (top: "Join our next sprint" / bottom: "Secure Your Spot")
 
@@ -31,6 +33,15 @@ All notable changes to the MOMENTUM cohort funnel and landing pages will be docu
 - Adjusted session counts: 18 sessions → 15 sessions
 - Updated value calculations: $2,950+ → $2,650+
 - Cohort dates: Nov 17 - Dec 19, 2025
+- Consolidated Clear Goals and 24/7 Peer Support sections into MOMENTUM Builders Platform
+- Split generic Perks & Prizes into dedicated Participant Perks and Most Progress Award sections
+- Updated Program Structure session names to "Validation Workshops" and "Distribution Coworking"
+- Refined testimonials: expanded Chris's testimonial to show concrete outcomes, added Nataly's testimonial
+
+### Removed
+- Clear Goals section (consolidated into Platform)
+- 24/7 Peer Support section (consolidated into Platform)
+- Duplicate Perks & Prizes section (replaced with separate sections)
 
 ### Key Details
 - **Investment:** $500 CAD (one-time payment via Stripe)
