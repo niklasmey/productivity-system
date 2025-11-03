@@ -63,6 +63,60 @@ All notable changes to the LinkedIn content system will be documented here.
 
 ---
 
+---
+
+## [1.1.0] - 2024-11-02
+
+### Added - Cohort #4 Launch Campaign
+- **Complete 18-day launch campaign** (Nov 3-20) for Cohort #4
+- **Main campaign file**: `cohort#4-launch-campaign.md` with full daily post structures
+- **Supporting files**:
+  - `cohort#4-PHASE2-FEATURE-POSTS.md` - Feature announcements and ICP playbooks
+  - `cohort#4-FLEX-POSTS.md` - Conditional/strategic posts to use as needed
+
+### Campaign Structure
+**Phase 0 (Nov 3-5)**: Story-setting, no pitching
+- 3 posts: Embodiment coach, goal-setting lessons, coaches need coaching (hot take)
+- Build trust + normalize support systems
+
+**Phase 1 (Nov 6-10)**: Announcement week
+- 5 posts: Official announcement, RAW FEAR (runway ending), 10 coworking sessions, Shadowing user interviews, Monday workshops
+- Showcase new features + start urgency mechanics
+
+**Phase 2 (Nov 11-17)**: Decision week
+- 8 posts: Intrapreneur playbook, DOUBLE POST (Builder Platform + 250+ 1:1s), Founders playbook, Participation Perks, RAW excitement post, Sunday Scaries, kick-off
+- ICP-specific value + final push with FOMO
+- **Testing double-post strategy on Nov 12**
+
+**Phase 3 (Nov 18-20+)**: Post-launch
+- 3+ posts: Reality check, tech stack, Week 1 energy, [Emotional Inertia evergreen]
+- Transition to documenting journey + building Feb 2025 waitlist
+
+### Key Features
+- **ICP-Specific Playbooks**: Founders (Nov 13), Intrapreneurs (Nov 11)
+- **Feature Announcements**: Shadowing user interviews (NEW), Monday workshops, Builder platform, Participation perks, Coworking sessions
+- **Double-Post Strategy**: Testing Nov 12 with morning + evening posts (4+ hours apart)
+- **RAW Content**: Nov 7 (fear/stakes) + Nov 15 (excitement - user writes live)
+- **Sunday Scaries Theme**: Nov 16 emotional urgency post
+- **Emotional Inertia**: Moved to evergreen post-launch content
+
+### Campaign Tactics
+- **Urgency mechanics**: Spot countdown + time countdown + visual proof (Stripe screenshots in FLEX)
+- **Average target score**: 80/100 across all posts
+- **Goal**: 12-16 quality applications (60% founders, 30% career changers, 10% intrapreneurs)
+- **Strategic timing**: Peak content Wed-Fri, relationship-building Sun-Tue
+
+### Changes from Initial Draft
+- Removed "Career Changer 5-step playbook" (would be repetitive)
+- Moved Emotional Inertia to post-launch evergreen content
+- Added Shadowing User Interviews feature (unique differentiator)
+- Changed Nov 16 to Sunday Scaries theme for emotional urgency
+- Nov 15 = RAW post written by user based on feelings at time
+- Nov 12 = DOUBLE POST DAY (testing strategy early)
+- Stripe screenshot moved to FLEX-POSTS only (conditional use)
+
+---
+
 ## Notes
 
 - All context files version controlled via Git
