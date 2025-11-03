@@ -117,9 +117,39 @@ All notable changes to the LinkedIn content system will be documented here.
 
 ---
 
+## [1.2.0] - 2025-11-02
+
+### Added - Past Posts Recovery
+- **Recovered 25 LinkedIn posts** (July-October 2025) to `past-posts/` directory
+- Complete post tracking with performance metrics in POST_TRACKING.md
+- **Total impressions tracked**: 28,500+
+- **Date range**: Late July 2025 through October 31, 2025
+
+### Changed
+- **Removed `.gitignore` entries** for `past-posts/` and `drafts/` - posts are now public and version controlled
+- **Removed `.gitkeep` files** from both directories
+- **Posts now permanently stored** in repository for voice learning and reference
+
+### Key Performance Insights from 25 Posts
+- **Top performer**: "6 months ago, I was..." (Framework post) - 1,300 impressions, 30 likes, 12 comments, 88/100 score
+- **Highest reach**: "7 vibe-coding hacks..." (Tactical list) - 3,100 impressions, 29 likes, 0 comments
+- **Best engagement**: "Last week, I got real scared..." (Vulnerable) - 2,200 impressions, 21 likes, 7 comments
+- **Profile updates** generate 5x reach boost (2,000 impressions)
+- **Vulnerable founder journey posts** consistently drive comments
+- **List posts** drive passive consumption but lack comments
+
+### Voice & Tone Patterns Identified
+- First-person vulnerable storytelling resonates best
+- German-engineered system, vibe-coding, failing forward = authentic voice
+- Problem → Journey → Insight → Offer structure works well
+- Emojis used strategically (🔥, 💥) not excessively
+- Direct CTAs ("DM me") outperform generic calls-to-action
+
+---
+
 ## Notes
 
 - All context files version controlled via Git
-- Past posts kept private (.gitignored) for voice learning only
+- **Past posts now public** - 25 complete posts available for voice learning
 - System designed for real-time collaboration in VSCode with Claude Code
 - No Python/CLI complexity - just context + conversation + tracking

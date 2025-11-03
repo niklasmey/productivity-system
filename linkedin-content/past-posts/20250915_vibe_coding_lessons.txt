@@ -1,0 +1,33 @@
+10 things I wish I had known before getting into vibe-coding
+
+#1 Just start, skip the tutorials, and learn along with the code
+• I use ChatGPT voice to ask about new concepts, discuss my decisions, and learn as I build
+
+#2 It's dopaminergic and may bring up past addictions
+• From doom scrolling to overworking, it made me more susceptible to vices I thought I had outgrown
+
+#3 Invest in your setup early on, but keep it simple
+• For me, it's basically: Lovable + Superbase → Github ← Claude Code in VS Code
+
+#4 Things break quickly, stay on top of your versions
+• I run a changelog for every core feature and push commits to GitHub for even small tweaks
+
+#5 Establish guidelines for your agents
+• When AI makes a mistake or spirals, I ask it to reflect on why it happened, constantly refining its system prompts
+
+#6 Document your product beyond a simple PRD
+• Just vibes aren't cutting it if you want 10+ people to actually use your product! Do the hard thing and write the specifics, although it's tedious and hard
+
+#7 AI gets overwhelmed when you don't manage it well
+• Even with thorough documentation, you still need to break down complex tasks and give AI focused, specific instructions
+
+#8 Iterative coding is necessary for you to learn
+I use dedicated containers to experiment, follow a deliberate setup + wind-down routines, and always reference my docs
+
+#9 Never trust a completion statement, AI likes gaslighting you
+• For far too long, I naively believed positive affirmation blindly... Now, I test everything on my local host before moving forward
+
+#10 Don't be afraid to scratch a feature and start all over again
+• Sometimes you've gone too deep down the wrong path. Instead of pushing it through, it's better to step back, reflect, and start over again.
+
+What do you wish you had known before getting into vibe-coding?

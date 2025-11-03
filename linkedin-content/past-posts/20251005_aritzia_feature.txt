@@ -1,0 +1,27 @@
+72 hours from Antler, 100 credits from Lovable, and 3 cortados later = 1 new feature built!
+
+It's a tool that instantly decodes Aritzia's shipping and return policies based on any shopper's location.
+
+The problem: Throughout 5,000+ conversations with strangers about shopping habits, I kept hearing the same tiny frustration.
+
+Instead of faster deliveries, people wanted to know:
+• When will their item arrive?
+• How long do they have to try it on?
+
+Buying a new piece of clothing online, feeling it out at home, and deciding about it is a whole experience that has to fit in with everything else going on.
+
+So they'd study shipping + return policies or click all the way to checkout just to find these answers.
+
+I always thought this workaround was too small to underpin a viable product.
+
+But who has time for all those clicks or walls of text in 2025?
+
+And why isn't this information provided upfront?
+
+The solution: A dead-simple utility tool that gives shoppers these answers in under 2 seconds, no matter where they are or what Aritzia item got them excited.
+
+Why build this? It opens up an additional GTM angle for my shopping companion, giving me more distribution options and leverage for future experiments.
+
+See the lead capture play around sending them return reminders on the third screen.
+
+Thanks McKenzie Hagan and Brenton Andersen for having us! :)

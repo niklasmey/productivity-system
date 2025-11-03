@@ -1,0 +1,81 @@
+7 vibe-coding hacks everyone is sleeping on!
+
+Non-technical vibe-coders, learn from my failing forward:
+
+#1 𝐃𝐞𝐬𝐢𝐠𝐧 𝐬𝐭𝐫𝐚𝐢𝐠𝐡𝐭 𝐢𝐧 𝐦𝐚𝐫𝐤𝐝𝐨𝐰𝐧
+
+At some point, I had too much of the pixel-pushing, handoff issues, and context switching.
+
+My solution? Skip Figma entirely!
+
+I just take my sketch, ask Claude Code to turn it into a structured markdown file, and text-edit it right in my codebase.
+
+Now, I can move buttons, adjust copy, or refine spacing at my speed of thought.
+
+#2 𝐕𝐢𝐛𝐞-𝐜𝐨𝐝𝐞 𝐚𝐬 𝐲𝐨𝐮𝐫 𝐦𝐨𝐫𝐧𝐢𝐧𝐠 𝐫𝐨𝐮𝐭𝐢𝐧𝐞
+
+Context management is everything, and it starts with your own mental state.
+
+This is why I anchored vibe-coding firmly in the first 2hrs of all my days.
+
+At night, I define how I want the user to feel, and in the morning, I figure out how to build it.
+
+While this might sound extreme, it's how I operate with pure, meditative focus and easily push any distraction away.
+
+#3 𝐊𝐞𝐞𝐩 𝐚 𝐦𝐞𝐧𝐭𝐚𝐥-𝐨𝐯𝐞𝐫𝐟𝐥𝐨𝐰.𝐦𝐝
+
+Vibe-coding gets me into flow state! But while waiting for AI, my mind wanders, thinks ahead, and generates creative ideas.
+
+While I don't want to lose them, I don't like the distraction.
+
+So, I keep a running mental-overflow.md with my 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘍𝘰𝘤𝘶𝘴,  𝘕𝘦𝘹𝘵 𝘚𝘵𝘦𝘱𝘴, and 𝘙𝘢𝘯𝘥𝘰𝘮 𝘐𝘥𝘦𝘢𝘴.
+
+This way, I stay in my zone and can assess later whether they are shiny objects that give me feel-good dopamine, or actually move the needle for my business.
+
+#4 𝐔𝐬𝐞 𝐂𝐡𝐚𝐭𝐆𝐏𝐓'𝐬 𝐩𝐫𝐨𝐦𝐩𝐭 𝐨𝐩𝐭𝐢𝐦𝐢𝐳𝐞𝐫
+
+Turning my thoughts into well-structured, clear, and context-rich prompts is hard.
+
+To ease my flow, I use ChatGPT's dedicated Prompt Optimizer (yes, there's a specific tool that's much better than the default chat).
+
+I also start every session with a prompt that initializes the context relevant to what I'm working on and identifies any logical gaps before executing.
+
+Using AI to write better AI instructions creates a compounding feedback loop that both gets me better results and accelerates my learning curve.
+
+#5 𝐂𝐨𝐦𝐦𝐢𝐭 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐩𝐨𝐢𝐧𝐭𝐬 𝐭𝐨 𝐆𝐢𝐭𝐇𝐮𝐛
+
+Often I returned to my code and couldn't remember why I made certain choices, costing me hours or even days resolving a problem or rebuilding a feature...
+
+Committing only finished features or fixed bugs wasn't working with my growing technical skills.
+
+But adding statements at every decision point helps me trace back why something exists.
+
+With my git log preserving my reasoning, I can not only see my lessons, but also vibe-code with more conviction.
+
+#6 𝐃𝐞𝐛𝐮𝐠 𝐰𝐢𝐭𝐡 𝐞𝐫𝐫𝐨𝐫 𝐜𝐨𝐝𝐞𝐬 𝐚𝐧𝐝 𝐚𝐧𝐧𝐨𝐭𝐚𝐭𝐞𝐝 𝐬𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭𝐬
+
+Prompting lazily "fix the CTA button" has gotten me in a lot of trouble.
+
+Now I share error codes, dig into logs, or annotated screenshots with what I want changed.
+
+No more guessing what's broken or endless debugging loops.
+
+Just surgical precision on what the problem is and how to solve it quickly.
+
+#7 𝐁𝐮𝐢𝐥𝐝 𝐩𝐮𝐛𝐥𝐢𝐜𝐥𝐲 𝐰𝐢𝐭𝐡 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲
+
+Your excitement is the most authentic marketing you'll ever have!
+
+Share your wins, your failures, and what you learn along the way.
+
+Whether in WhatsApp, Twitter, or LinkedIn—people love watching someone build in real-time.
+
+It attracts collaborators, early users, and valuable feedback that compound into real momentum.
+
+Mastering vibe-coding isn't just about shipping faster. It's about building what's right—with more clarity, speed, and conviction.
+
+If you're vibe-coding, comment your best tip 👇
+
+If you want my full playbook on vibe-coding, including my technical stack, how I structure prompts, and manage context, drop a like!
+
+At 100 likes, I'll create a free guide 😄

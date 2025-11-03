@@ -21,6 +21,8 @@
 | 2025-10-23 | Product Launch | "63 Founding Members..." | 400 | 11 | 3 | 65/100 | Off-brand (Cocoony not MOMENTUM) |
 | 2025-10-22 | Hot Take | "IDK why so many..." | 400 | 11 | 4 | 68/100 | Hot takes drive comments, need stronger CTA |
 | 2025-10-20 | Lifestyle | "I listened to all..." | 400 | 11 | 0 | 62/100 | Too far from core - 0 comments |
+| 2025-early-10 | Reflection | "Today is to celebrate..." | 600 | 11 | 2 | TBD | 6-week recap - list of achievements |
+| 2025-early-10 | Product/Tactical | "72 hours from Antler..." | 700 | 10 | 3 | TBD | Antler feature build - tactical story |
 | 2025-10-16 | Framework | "6 months ago, I was..." | 1,300 | 30 | 12 | 88/100 | ⭐ TOP PERFORMER - Framework + Story + Vulnerability |
 | 2025-mid-10 | Challenge | "Everyone is doing 75HARD..." | 400 | 5 | 0 | 58/100 | Comment hack FAILED - forced engagement |
 | 2025-mid-10 | Tactical | "7 vibe-coding hacks..." | 3,100 | 29 | 0 | 71/100 | Highest reach, 0 comments - list = passive |
@@ -29,6 +31,15 @@
 | 2025-early-10 | Framework | "My rule of two..." | 600 | 4 | 1 | 70/100 | Core IP underperformed - too brief |
 | 2025-late-09 | Cohort Launch | "The dream I thought..." | 1,600 | 25 | 1 | 78/100 | Strong reach, story-first approach |
 | 2025-late-09 | Cohort Launch | "🔥 Opening 7 spots..." | 600 | 8 | 4 | 69/100 | Pure offer underperforms vs story |
+| 2025-09-29 | Cohort Kickoff | "Cohort#4 of my sprints..." | 800 | 13 | 1 | TBD | Launch day - showcasing builders |
+| 2025-late-09 | Cohort Launch | "Cohort #4 of my 6-week..." | 400 | 6 | 2 | TBD | Testimonial-focused cohort launch |
+| 2025-mid-09 | Community Update | "Early-stage founders unite..." | 300 | 9 | 1 | TBD | Coworking session recap - marketing focus |
+| 2025-mid-09 | Tactical/List | "10 things I wish I had..." | 400 | 5 | 0 | TBD | Vibe-coding lessons - numbered list |
+| 2025-mid-09 | Announcement | "Our MOMENTUM coworking..." | 900 | 20 | 0 | TBD | Coworking launch - story + offer |
+| 2025-mid-08 | Reflection/Vulnerable | "Ah! The mid-sprint breakthrough..." | 800 | 18 | 2 | TBD | Mid-sprint reflection - highs/lows/learnings |
+| 2025-early-08 | Cohort Launch | "By Sep 12, 15+ solo builders..." | 700 | 6 | 1 | TBD | Cohort 3 launch - vulnerable + urgent |
+| 2025-late-07 | Cohort Launch/Vulnerable | "Last week, I got real scared..." | 2,200 | 21 | 7 | TBD | Lovable shipped sprint - vulnerability + community |
+| 2025-late-07 | Cohort Launch | "3 months ago, I felt stuck..." | 1,400 | 20 | 4 | TBD | Sprint system launch - problem/solution/offer |
 
 ---
 

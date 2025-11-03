@@ -19,12 +19,6 @@ Thumbs.db
 .env
 .env.local
 
-# LinkedIn content (keep private)
-linkedin-content/drafts/*
-!linkedin-content/drafts/.gitkeep
-linkedin-content/past-posts/*
-!linkedin-content/past-posts/.gitkeep
-
 # Build outputs
 dist/
 build/
