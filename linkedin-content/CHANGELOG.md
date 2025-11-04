@@ -147,6 +147,39 @@ All notable changes to the LinkedIn content system will be documented here.
 
 ---
 
+---
+
+## [1.3.0] - 2025-11-03
+
+### Added - Nov 4 Goal-Setting Post
+- **Created draft**: `drafts/20251104_goal_setting_framework.md`
+- **Post type**: Framework (Pillar 3) - Phase 0 story-setting
+- **Hook refined**: "Setting sprint goals with 40 builders taught me: if your goal feels too ambitious, it's just a wish!" (23/25 score)
+- **Target score**: 85-90/100
+
+### Key Content Elements
+- **Wish vs Goal framework**: Vague/ambitious goals = hiding mechanisms
+- **OKR structure**: Objective (validation stage) + 3 Key Results (evidence)
+- **Business validation insight**: Failing 2 sprints in a row = proof to kill idea (removes emotional attachment)
+- **Ambition window**: Slightly scary yet realistic goals for staying power
+- **Longevity piece**: Hit goals consistently = stay motivated; Miss repeatedly = burn out
+- **3 validation stage examples**: Research/Prototype → Prove Traction → Financial Viability
+- **Year-end CTA**: Adapted from Oct 31 post (61 days to end of year)
+
+### Hook Development Process
+- Started with: "I've set sprint goals with 40 builders over 4 cohorts. Here's what I learned..."
+- Iterated to: "Setting sprint goals with 40 builders taught me: if your goal feels too ambitious, it's just a wish!"
+- **Contrarian insight**: Flips conventional "ambitious = good" wisdom
+- **Measurability**: Core theme that unmeasurable = hiding mechanism
+
+### Content Strategy
+- **No MOMENTUM pitch** (Phase 0 - building trust before announcement)
+- **Publishing plan**: Monday Nov 4, 8-10am PT
+- **Expected reach**: Moderate (Monday = tactical/framework day)
+- Cut unnecessary fluff and repetition for tighter flow
+
+---
+
 ## Notes
 
 - All context files version controlled via Git
